@@ -1,5 +1,5 @@
 # Web Scraping Full Course 2023 | Build and Deploy eCommerce Price Tracker
-![Web Scraping](https://i.ibb.co/jR6LM2T/Thumbnail.png)
+
 
 ## Introduction
 Dive into web scraping and build a Next.js 13 eCommerce price tracker with data scraping, cron jobs, sending emails, deployment, and more.
@@ -32,7 +32,7 @@ Follow these steps to install and run the project:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   <!-- git clone https://github.com/adrianhajdin/pricewise.git -->
+   <!-- https://github.com/janagokul6/WebScrapX -->
    ```
 
 2. **Navigate to the project directory**
